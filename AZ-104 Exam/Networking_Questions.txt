@@ -1,0 +1,21 @@
+## Why would you use a content delivery network?
+
+Why would you use a content delivery network?
+
+
+To ensure maximum uptime for an application that is hosted in more than one datacenter
+
+
+For incoming traffic, to make routing decisions based on additional attributes of an HTTP request, such as URI path or host headers
+
+
+## To better handle instantaneous high loads, such as the start of a product launch event
+
+
+To ensure requests made from users are securely handled and served
+
+## To provide better performance and improved user experience for end users
+
+
+
+
