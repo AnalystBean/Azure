@@ -10,7 +10,7 @@ To ensure maximum uptime for an application that is hosted in more than one data
 For incoming traffic, to make routing decisions based on additional attributes of an HTTP request, such as URI path or host headers
 
 
-**_To better handle instantaneous high loads, such as the start of a product launch event_**
+> ***To better handle instantaneous high loads, such as the start of a product launch event***
 
 
 To ensure requests made from users are securely handled and served
