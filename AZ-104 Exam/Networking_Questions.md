@@ -90,9 +90,9 @@ To send encrypted traffic between an Azure Virtual Network and an on-premises lo
 To make sure the connection from a virtual network to the internet is secure
 
 
-**You can use multi-site hosting to use the same Application Gateway for more than one website. You can, in fact, add up to 100 websites to the same instance of an Application Gateway. This will both save you on cost and complexity.
+**You can use multi-site hosting to use the same Application Gateway for more than one website. You can, in fact, add up to 100 websites to the same instance of an Application Gateway. This will both save you on cost and complexity.**
 
-An Application Gateway is similar to a load balancer, but it can redirect traffic based on attributes in the HTTP request, the request coming in from the internet. You can have a VM handling video, one handling images and so on. Application Gateways do not handle traffic security, nor manage any virtual networks.**
+**An Application Gateway is similar to a load balancer, but it can redirect traffic based on attributes in the HTTP request, the request coming in from the internet. You can have a VM handling video, one handling images and so on. Application Gateways do not handle traffic security, nor manage any virtual networks.**
 
 ## QUESTION 5
 
