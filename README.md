@@ -29,4 +29,3 @@ az webapp up -g [resource_group] --location [location] -n [app_name] --sku S1 --
 
 ### Summary
 [Azure documentation](https://docs.microsoft.com/azure/)  
-support@cloudacademy.com
