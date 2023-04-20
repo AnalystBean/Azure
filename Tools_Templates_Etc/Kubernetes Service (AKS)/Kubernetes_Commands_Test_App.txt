@@ -1,0 +1,6 @@
+az aks get-credentials --resource-group aks1 --name cluster1
+kubectl get nodes
+git clone https://github.com/AnalystBean/Azure/tree/main/Tools_Templates_Etc/Kubernetes Service (AKS)/azure-vote.yaml
+cd configuring-aks
+kubectl apply -f azure-vote.yaml
+kubectl get service azure-vote-front
